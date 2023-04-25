@@ -1,4 +1,4 @@
 package pl.quizzically.domain.points;
 
-public class PointaFacade {
+public class PointsFacade {
 }
